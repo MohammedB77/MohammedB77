@@ -52,9 +52,3 @@ Explore my repositories to see my work on mobile applications using Flutter, res
 
 
 ---
-
-**ملاحظة هامة:**
-
-1.  **الشعارات** هي عبارة عن أكواد `<img>` داخل قائمة Markdown.
-2.  لقد قمت بإزالة النقاط النجمية (`*`) واستبدالها بالقائمة النقطية العادية (`-`) لتظهر الشعارات بشكل أفضل.
-3.  **JavaScript Frameworks:** يمكنك استبدال شعار JavaScript بشعار React أو Vue.js أو Angular إذا كان هو الإطار الرئيسي الذي تستخدمه.
