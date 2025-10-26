@@ -11,7 +11,6 @@
 
 ### 📱 Mobile Development
 
-Focused on building beautiful and high-performance cross-platform applications.
 
 * <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/> **Flutter (Dart)**
 
