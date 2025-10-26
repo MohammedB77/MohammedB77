@@ -11,13 +11,11 @@
 
 ### 📱 Mobile Development
 
-Focused on building beautiful and high-performance cross-platform applications.
 
 -   **Framework**: **Flutter (Dart)**
 
 ### 🎨 Front-End Web Development
 
-Focused on building accessible and responsive web interfaces.
 
 -   **Web Fundamentals**: **HTML5**, CSS3
 -   **JavaScript Frameworks**: **[React/Vue.js/Angular]** (تأكد من اختيار الإطار الذي تستخدمه)
@@ -25,14 +23,11 @@ Focused on building accessible and responsive web interfaces.
 
 ### 🛠️ Back-End & Services
 
-Experience in implementing and managing application services.
 
 -   **Cloud/BaaS**: **Firebase** (Authentication, Firestore, Storage)
--   **Back-End Frameworks**: [Node.js (Express) / PHP]
 
 ## 🔹 Other Languages & Databases
 
-Utilizing diverse languages for different development needs.
 
 -   **Languages**: **C#**, **Python**
 -   **Databases**: **SQL** (MySQL, PostgreSQL, or other)
