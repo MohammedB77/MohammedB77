@@ -31,7 +31,7 @@
 
 * <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/> **C#**
 * <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> **Python**
-* <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlserver&logoColor=white" alt="SQL Badge"/> **SQL** (MySQL, PostgreSQL, or other)
+* <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlserver&logoColor=white" alt="SQL Badge"/> **SQL** MySQL
 
 ## 🔹 Tools & Workflow
 
