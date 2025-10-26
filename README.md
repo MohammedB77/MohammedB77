@@ -18,7 +18,7 @@
 
 
 -   **Web Fundamentals**: **HTML5**, CSS3
--   **JavaScript Frameworks**: **[React/Vue.js/Angular]** (تأكد من اختيار الإطار الذي تستخدمه)
+-   **JavaScript Frameworks**
 -   **Styling**: [Tailwind CSS / Sass / Bootstrap]
 
 ### 🛠️ Back-End & Services
