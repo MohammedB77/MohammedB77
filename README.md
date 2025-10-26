@@ -14,7 +14,6 @@
 Focused on building accessible and responsive user interfaces.
 
 -   **Web Fundamentals**: **HTML5**, CSS3
--   **JavaScript Frameworks**: **[React/Vue.js/Angular]** (Choose the main one)
 -   **Mobile/Cross-Platform**: **Flutter (Dart)**
 
 ### 🛠️ Back-End & Services
@@ -22,7 +21,7 @@ Focused on building accessible and responsive user interfaces.
 Experience in implementing and managing application services.
 
 -   **Cloud/BaaS**: **Firebase** (Authentication, Firestore, Storage)
--   **Back-End Frameworks**: [Node.js (Express) / PHP]
+
 
 ## 🔹 Other Languages & Databases
 
