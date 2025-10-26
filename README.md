@@ -15,12 +15,8 @@
 -   **Framework**: **Flutter (Dart)**
 
 ### 🎨 Front-End Web Development
-
-
--   **Web Fundamentals**: **HTML5**, CSS3
--   **JavaScript Frameworks**
--   **Styling**: [Tailwind CSS / Sass / Bootstrap]
-
+-   **Core Languages**: **HTML**, **CSS**, **JavaScript**
+-   
 ### 🛠️ Back-End & Services
 
 
