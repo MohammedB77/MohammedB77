@@ -11,11 +11,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=1100&lines=Software+Engineer+%7C+AI+Engineer;Artificial+Intelligence+%7C+LLMs+%7C+RAG;Building+Intelligent+Software;UI%2FUX+Designer+%7C+Digital+Product+Design)](https://git.io/typing-svg)
 <br>
 
+<div align="center">
+
 <img src="https://img.shields.io/badge/Based_in-Hadhrmout,_Yemen-8B3A3A?style=for-the-badge" alt="Based in"/>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=MohammedB77&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
-
 ---
 
 # ⚡ Tech Arsenal
