@@ -187,19 +187,6 @@ contact: Mohammedbamhraz@gmail.com
 
 ---
 
-### 🌐 Networking
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-CCNA:_Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-CCNA:_Switching,_Routing_%26_Wireless_Essentials-0076A8?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</div>
-
-<br>
-
----
-
 ### 🔐 Cybersecurity
 
 <div align="center">
@@ -218,31 +205,64 @@ contact: Mohammedbamhraz@gmail.com
 
 ---
 
-### 🎨 UI / UX
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/إدراك-UI%2FUX_Design-E11D48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/إدراك-User_Interface_Design_Principles-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/إدراك-Interaction_Design_Fundamentals-0F766E?style=for-the-badge"/>
+# 🎨 UI / UX Design
+
+### Research • Experience • Interface • Interaction
+
+<br>
+
+<img src="https://img.shields.io/badge/USER_RESEARCH-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTERFACE-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INTERACTION-0F766E?style=for-the-badge"/>
+
+<br><br>
 
 </div>
 
----
+### 🔎 Research & Experience
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Edraak-UX_Research-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Edraak-User_Experience_Design-8B5CF6?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+### 🖥️ Interface & Interaction
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Edraak-UI%2FUX_Design-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Edraak-User_Interface_Design_Principles-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Edraak-Interaction_Design_Fundamentals-0F766E?style=for-the-badge"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
 ```text
-                 LEARN
-                   │
-          ┌────────┼────────┐
-          │        │        │
-       BUILD    EXPLORE   PRACTICE
-          │        │        │
-          └────────┼────────┘
-                   │
-                 GROW
----
+       RESEARCH
+           │
+           ▼
+     UNDERSTAND USERS
+           │
+           ▼
+      DESIGN EXPERIENCE
+           │
+      ┌────┴────┐
+      ▼         ▼
+  INTERFACE  INTERACTION
+      │         │
+      └────┬────┘
+           ▼
+       BETTER UX
 
 # 🏗️ What I Like Building
 
