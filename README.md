@@ -19,49 +19,8 @@
 </div>
 
 ---
----
+about me 
 
-## 👋 About Me
-
-<div align="center">
-
-### Mohammed Abdullah Bamhraz
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B9DB5&center=true&vCenter=true&width=1000&lines=Developer+exploring+technology+through+software%2C+experimentation%2C+and+real-world+projects" />
-
-<br><br>
-
-<table>
-<tr>
-<td align="center">
-
-### 🧩
-
-**Software Development & Application Engineering**  
-**Web & Mobile Application Development**  
-**Backend Development & RESTful API Engineering**  
-**Artificial Intelligence & LLM Applications**
-
-</td>
-
-<td align="center">
-
-### ⚡
-
-**Cybersecurity & Networking**  
-**Data & Database Technologies**  
-**UI/UX & Digital Product Development**  
-**Automation & Emerging Technologies**
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 ---
 
 
