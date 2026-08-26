@@ -1,15 +1,13 @@
 <div align="center">
 
-```text
 ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗ 
 ████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔════╝██╔══██╗
 ██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║█████╗  ██║  ██║
 ██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝  ██║  ██║
 ██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║███████╗██████╔╝
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
-```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=850\&lines=AI+Engineer+%7C+AI+Developer+%7C+Builder;Artificial+Intelligence+%7C+LLMs+%7C+RAG;Python+%7C+Backend+%7C+AI+Applications;Learning+by+Building+Real+Projects)](https://git.io/typing-svg)
+
 
 <br>
 
@@ -20,36 +18,39 @@
 <img src="https://komarev.com/ghpvc/?username=MohammedB77&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
----
+👋 About Me
 
-## 👋 About Me
 name: Mohammed Abdullah Bamhraz
 
 profile:
-  "Developer exploring technology through software, experimentation, and real-world projects"
+"Developer exploring technology through software, experimentation, and real-world projects"
 
 interests:
-  - Software Development & Application Engineering
-  - Web & Mobile Application Development
-  - Backend Development & RESTful API Engineering
-  - Artificial Intelligence & LLM Applications
-  - Cybersecurity & Networking
-  - Data & Database Technologies
-  - UI/UX & Digital Product Development
-  - Automation & Emerging Technologies
+
+Software Development & Application Engineering
+
+Web & Mobile Application Development
+
+Backend Development & RESTful API Engineering
+
+Artificial Intelligence & LLM Applications
+
+Cybersecurity & Networking
+
+Data & Database Technologies
+
+UI/UX & Digital Product Development
+
+Automation & Emerging Technologies
 
 philosophy: "Learn. Build. Improve."
 contact: Mohammedbamhraz@gmail.com
 
----
-
-
-# ⚡ Tech Arsenal
+⚡ Tech Arsenal
 
 <div align="center">
-  
-### 🤖 AI, Machine Learning & Data
 
+🤖 AI, Machine Learning & Data
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -68,15 +69,15 @@ contact: Mohammedbamhraz@gmail.com
 <img src="https://img.shields.io/badge/Data_Analysis-0d1117?style=for-the-badge"/>
 <br><br>
 
-### ⚙️ Backend, APIs & Enterprise Development
+⚙️ Backend, APIs & Enterprise Development
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge"/>
 
-
 <br><br>
-### 🌐 Frontend & Mobile
+
+🌐 Frontend & Mobile
 
 <img src="https://img.shields.io/badge/HTML5-E85D04?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -86,7 +87,7 @@ contact: Mohammedbamhraz@gmail.com
 <img src="https://img.shields.io/badge/Figma-E11D48?style=for-the-badge&logo=figma&logoColor=white"/>
 <br><br>
 
-### 🔐 Cybersecurity Skills & Tools
+🔐 Cybersecurity Skills & Tools
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-2E5D7B?style=for-the-badge&logo=nmap&logoColor=white"/>
@@ -100,15 +101,14 @@ contact: Mohammedbamhraz@gmail.com
 <img src="https://img.shields.io/badge/Information_Assurance-5968A8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Security_Strategy-79519B?style=for-the-badge"/>
 
-
-### 🗄️ Databases & Storage
+🗄️ Databases & Storage
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pinecone-16A34A?style=for-the-badge&logoColor=white&logo=https%3A%2F%2Fcdn.simpleicons.org%2Fpinecone%2Fwhite"/>
 <br><br>
 
-### 🛠️ DevOps, Systems & Productivity
+🛠️ DevOps, Systems & Productivity
 
 <img src="https://img.shields.io/badge/Git-E85D04?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -121,29 +121,51 @@ contact: Mohammedbamhraz@gmail.com
 
 </div>
 
----
-
-# 🚀 Featured Projects
+🚀 Featured Projects
 
 <div align="center">
 
-| Project                   | Description                                                                     | Focus                     |
-| ------------------------- | ------------------------------------------------------------------------------- | ------------------------- |
-| 🔎 **Raasid**             | AI-powered project focused on intelligent analysis and useful insights          | AI · RAG · Data           |
-| 🤖 **AI Applications**    | Experimental applications exploring LLMs and AI workflows                       | LLM · AI Engineering      |
-| 🌐 **Flask Projects**     | Backend and web applications built while developing software engineering skills | Python · Flask · APIs     |
-| 🧠 **RAG Experiments**    | Projects exploring retrieval, context, and knowledge-grounded AI                | RAG · LLMs                |
-| 🎓 **Graduation Project** | An AI-focused graduation project solving a real-world problem                   | AI · Software Engineering |
+Project
+
+Description
+
+Focus
+
+🔎 Raasid
+
+AI-powered project focused on intelligent analysis and useful insights
+
+AI · RAG · Data
+
+🤖 AI Applications
+
+Experimental applications exploring LLMs and AI workflows
+
+LLM · AI Engineering
+
+🌐 Flask Projects
+
+Backend and web applications built while developing software engineering skills
+
+Python · Flask · APIs
+
+🧠 RAG Experiments
+
+Projects exploring retrieval, context, and knowledge-grounded AI
+
+RAG · LLMs
+
+🎓 Graduation Project
+
+An AI-focused graduation project solving a real-world problem
+
+AI · Software Engineering
 
 </div>
 
----
+🏆 Certifications & Learning
 
-# 🏆 Certifications & Learning
-
-<div align="center">
-
-## 🤖 AI & Software Engineering
+🤖 AI & Software Engineering
 
 <div align="center">
 
@@ -170,11 +192,11 @@ contact: Mohammedbamhraz@gmail.com
 <br>
 ---
 
-## 🔐 Cybersecurity
+🔐 Cybersecurity
 
 <div align="center">
 
-### 🛡️ Foundations
+🛡️ Foundations
 
 <img src="https://img.shields.io/badge/Google-Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Edraak-Introduction_to_Cyber_Security-2563EB?style=for-the-badge"/>
@@ -182,7 +204,7 @@ contact: Mohammedbamhraz@gmail.com
 
 <br><br>
 
-### ⚔️ Security & Penetration
+⚔️ Security & Penetration
 
 <img src="https://img.shields.io/badge/Edraak-Cyber_Security_Attack_Techniques-C2415B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-Protect_Systems_from_Penetrations-B56A2D?style=for-the-badge"/>
@@ -190,7 +212,7 @@ contact: Mohammedbamhraz@gmail.com
 
 <br><br>
 
-### 🎯 Security Career
+🎯 Security Career
 
 <img src="https://img.shields.io/badge/Edraak-Career_Path_in_Cyber_Security-0F766E?style=for-the-badge"/>
 
@@ -198,19 +220,20 @@ contact: Mohammedbamhraz@gmail.com
 
 <br>
 
----
+🎨 UI / UX Design
 
-## 🎨 UI / UX Design
+🔎 Research & Experience
 
 <div align="center">
-
-### 🔎 Research & Experience
 
 <img src="https://img.shields.io/badge/Edraak-UX_Research-E11D48?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-User_Experience_Design-8B5CF6?style=for-the-badge"/>
 
+</div>
+
 <br><br>
-### 🖥️ Interface & Interaction
+
+🖥️ Interface & Interaction
 
 <div align="center">
 
@@ -220,11 +243,8 @@ contact: Mohammedbamhraz@gmail.com
 
 </div>
 
----
+🏗️ What I Like Building
 
-## 🏗️ What I Like Building
-
-```yaml
 building:
   applications:
     - Intelligent applications built around practical problems and real use cases.
@@ -240,12 +260,8 @@ building:
 
   principles:
     - Useful, intuitive, and purpose-driven technology.
-```
 
----
-
-## 📊 GitHub Analytics
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
@@ -259,7 +275,7 @@ building:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedB77&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
 
 </div>
 
@@ -267,15 +283,12 @@ building:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammedB77&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="100%"/>
 
 </div>
 
----
+🎯 Current Direction
 
-# 🎯 Current Direction
-
-```text
                     AI ENGINEERING
                           │
             ┌─────────────┼─────────────┐
@@ -288,17 +301,14 @@ building:
                           │
                           ▼
                   REAL-WORLD SYSTEMS
-```
 
-I'm continuously working toward becoming a stronger **AI Engineer** by combining software engineering fundamentals with modern AI technologies.
+I'm continuously working toward becoming a stronger AI Engineer by combining software engineering fundamentals with modern AI technologies.
 
----
-
-# 🌐 Connect With Me
+🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/MohammedB77">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -308,16 +318,12 @@ I'm continuously working toward becoming a stronger **AI Engineer** by combining
 
 </div>
 
----
-
 <div align="center">
 
-```text
 ╔══════════════════════════════════════════════════════╗
 ║        BUILD · LEARN · EXPERIMENT · IMPROVE          ║
 ╚══════════════════════════════════════════════════════╝
-```
 
-### Building today what I want to understand tomorrow.
+Building today what I want to understand tomorrow.
 
 </div>
