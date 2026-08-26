@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=MohammedB77&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
----
+
 
 # ⚡ Tech Arsenal
 
@@ -106,11 +106,11 @@
 
 | Project | Description | Focus |
 | ------------------------- | ------------------------------------------------------------------------------- | ------------------------- |
-| 🔎 **Raasid** | AI-powered project focused on intelligent analysis and useful insights | AI · RAG · Data |
-| 🤖 **AI Applications** | Experimental applications exploring LLMs and AI workflows | LLM · AI Engineering |
-| 🌐 **Flask Projects** | Backend and web applications built while developing software engineering skills | Python · Flask · APIs |
-| 🧠 **RAG Experiments** | Projects exploring retrieval, context, and knowledge-grounded AI | RAG · LLMs |
-| 🎓 **Graduation Project** | An AI-focused graduation project solving a real-world problem | AI · Software Engineering |
+| | | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 </div>
 
