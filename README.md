@@ -138,48 +138,34 @@ contact: Mohammedbamhraz@gmail.com
 </div>
 
 ---
+# 📚 Certifications & Learning
 
-# 🧩 AI Engineering Journey
+### 🤖 AI & Software Development
 
-My current path is focused on moving from **using AI tools** to actually understanding and engineering AI-powered applications.
+* **Associate AI Engineer for Developers** — DataCamp
+* **Introduction to Model Context Protocol (MCP)** — DataCamp
+* **Developing LLM Applications with LangChain** — DataCamp
+* **Software Engineering Principles in Python** — DataCamp
+* **Building AI Applications with Pinecone** — DataCamp
+* **Introduction to Embeddings with the OpenAI API** — DataCamp
+* **Working with the OpenAI Responses API** — DataCamp
+* **LLMOps Concepts** — DataCamp
+* **Working with Hugging Face** — DataCamp
+* **Prompt Engineering with the OpenAI API** — DataCamp
+* **Working with the OpenAI API** — DataCamp
 
-```text
-Python
-  │
-  ├── Backend Development
-  │       └── APIs
-  │
-  ├── Data
-  │       └── Processing & Storage
-  │
-  └── Artificial Intelligence
-          │
-          ├── Machine Learning
-          │
-          ├── LLMs
-          │
-          ├── RAG
-          │
-          └── AI Applications
-```
+### 🔐 Cybersecurity
 
----
+* **Foundations of Cybersecurity** — Google / Coursera
+* **Cyber Security Attack Techniques** — إدراك
+* **Protect Systems from Penetrations** — إدراك
+* **Cyber Security Basics** — إدراك
 
-# 📚 Learning & Certifications
+### 🎨 UI/UX Design
 
-### Completed
-
-* **DataCamp — Associate AI Engineer for Developers**
-* **CCNA: Introduction to Networks**
-* **CCNA: Switching, Routing, and Wireless Essentials**
-
-### Currently Building
-
-* AI Engineering skills
-* LLM-based applications
-* RAG systems
-* Backend APIs for AI applications
-* Practical AI projects
+* **UI/UX Design** — إدراك
+* **User Interface Design Principles** — إدراك
+* **Interaction Design Fundamentals** — إدراك
 
 ---
 
