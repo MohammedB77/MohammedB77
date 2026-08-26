@@ -140,10 +140,13 @@ contact: Mohammedbamhraz@gmail.com
 </div>
 
 ---
-
 # 🏆 Certifications & Learning
 
+<div align="center">
+
 ## 🤖 AI & Software Engineering
+
+</div>
 
 <div align="center">
 
@@ -171,7 +174,11 @@ contact: Mohammedbamhraz@gmail.com
 
 ---
 
+<div align="center">
+
 ## 🔐 Cybersecurity
+
+</div>
 
 ### 🛡️ Foundations
 
@@ -209,7 +216,11 @@ contact: Mohammedbamhraz@gmail.com
 
 ---
 
+<div align="center">
+
 ## 🎨 UI / UX Design
+
+</div>
 
 ### 🔎 Research & Experience
 
@@ -232,8 +243,7 @@ contact: Mohammedbamhraz@gmail.com
 
 </div>
 
----
-
+--- 
 ## 🏗️ What I Like Building
 
 ```yaml
