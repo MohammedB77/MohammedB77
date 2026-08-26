@@ -1,4 +1,3 @@
-<img width="1392" height="667" alt="image" src="https://github.com/user-attachments/assets/c470ffe0-f94f-41b1-9439-d6f73f85ce27" /><img width="1392" height="667" alt="image" src="https://github.com/user-attachments/assets/217cadbd-d939-4603-b5cc-b23ddc834e84" /><div align="center">
 
 ```text
 ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗ 
