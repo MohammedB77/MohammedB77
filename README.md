@@ -138,35 +138,110 @@ contact: Mohammedbamhraz@gmail.com
 </div>
 
 ---
-# 📚 Certifications & Learning
 
-### 🤖 AI & Software Development
+# 🏆 Certifications & Learning
 
-* **Associate AI Engineer for Developers** — DataCamp
-* **Introduction to Model Context Protocol (MCP)** — DataCamp
-* **Developing LLM Applications with LangChain** — DataCamp
-* **Software Engineering Principles in Python** — DataCamp
-* **Building AI Applications with Pinecone** — DataCamp
-* **Introduction to Embeddings with the OpenAI API** — DataCamp
-* **Working with the OpenAI Responses API** — DataCamp
-* **LLMOps Concepts** — DataCamp
-* **Working with Hugging Face** — DataCamp
-* **Prompt Engineering with the OpenAI API** — DataCamp
-* **Working with the OpenAI API** — DataCamp
+<div align="center">
+
+### 📚 A Continuous Learning Journey
+
+<img src="https://img.shields.io/badge/AI_%26_Software-11_Completed-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-4_Completed-C2415B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Networking-2_Completed-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX-3_Completed-E11D48?style=for-the-badge"/>
+
+<br><br>
+
+</div>
+
+---
+
+### 🤖 AI & Software Engineering
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DataCamp-Associate_AI_Engineer_for_Developers-03EF62?style=for-the-badge&logo=datacamp&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/MCP-Introduction_to_Model_Context_Protocol-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-Developing_LLM_Applications-0F766E?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Software_Engineering_Principles-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Pinecone-Building_AI_Applications-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-Embeddings_API-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-Responses_API-6D28D9?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/LLMOps-Concepts-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hugging_Face-Working_with_Hugging_Face-F59E0B?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenAI-Prompt_Engineering-D946EF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-Working_with_the_API-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</div>
+
+<br>
+
+---
+
+### 🌐 Networking
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cisco-CCNA:_Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-CCNA:_Switching,_Routing_%26_Wireless_Essentials-0076A8?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</div>
+
+<br>
+
+---
 
 ### 🔐 Cybersecurity
 
-* **Foundations of Cybersecurity** — Google / Coursera
-* **Cyber Security Attack Techniques** — إدراك
-* **Protect Systems from Penetrations** — إدراك
-* **Cyber Security Basics** — إدراك
+<div align="center">
 
-### 🎨 UI/UX Design
+<img src="https://img.shields.io/badge/Google-Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 
-* **UI/UX Design** — إدراك
-* **User Interface Design Principles** — إدراك
-* **Interaction Design Fundamentals** — إدراك
+<br>
 
+<img src="https://img.shields.io/badge/إدراك-Cyber_Security_Basics-6D4AA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/إدراك-Cyber_Security_Attack_Techniques-C2415B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/إدراك-Protect_Systems_from_Penetrations-B56A2D?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+---
+
+### 🎨 UI / UX
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/إدراك-UI%2FUX_Design-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/إدراك-User_Interface_Design_Principles-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/إدراك-Interaction_Design_Fundamentals-0F766E?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+                 LEARN
+                   │
+          ┌────────┼────────┐
+          │        │        │
+       BUILD    EXPLORE   PRACTICE
+          │        │        │
+          └────────┼────────┘
+                   │
+                 GROW
 ---
 
 # 🏗️ What I Like Building
