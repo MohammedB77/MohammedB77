@@ -283,28 +283,6 @@ building:
 </div>
 
 ---
-
-# 🎯 Current Direction
-
-```text
-                    AI ENGINEERING
-                          │
-            ┌─────────────┼─────────────┐
-            │             │             │
-           LLMs          RAG          APIs
-            │             │             │
-            └─────────────┼─────────────┘
-                          │
-                   AI APPLICATIONS
-                          │
-                          ▼
-                  REAL-WORLD SYSTEMS
-```
-
-I'm continuously working toward becoming a stronger **AI Engineer** by combining software engineering fundamentals with modern AI technologies.
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -313,9 +291,15 @@ I'm continuously working toward becoming a stronger **AI Engineer** by combining
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/mohammed-bamhraz-a768a4414/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+
+<a href="mailto:Mohammedbamhraz@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 
 </div>
 
