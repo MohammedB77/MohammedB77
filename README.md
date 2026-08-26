@@ -28,11 +28,11 @@
 
 <br>
 
-> Developer exploring technology through software, experimentation, and real-world projects.
+> I build software applications, AI-powered systems, and practical digital products that solve real problems. My work combines software engineering, AI and LLM applications, RAG and intelligent retrieval, cybersecurity, data-driven systems, and UI/UX design, with a focus on creating useful, reliable, and thoughtfully designed digital experiences.
 
 </div>
 
-### 🧩 What I Explore
+### 🧩 Interests :
 
 - **Software Development & Application Engineering**
 - **Web & Mobile Application Development**
