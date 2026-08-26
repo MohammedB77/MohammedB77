@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Based_in-YOUR_CITY,_COUNTRY-0d1117?style=for-the-badge" alt="Based in"/>
+<img src="https://img.shields.io/badge/Based_in-Hadhrmout,_Yemen-0d1117?style=for-the-badge" alt="Based in"/>
 
 <img src="https://img.shields.io/badge/Focus-AI_%7C_AI_Engineering-00d9ff?style=for-the-badge" alt="Focus"/>
 
