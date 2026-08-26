@@ -19,61 +19,43 @@
 </div>
 
 ---
----
+
 
 ## 👋 About Me
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6366F1,100:8B5CF6&height=3&section=header&width=900"/>
+### Mohammed Abdullah Bamhraz
 
 <br>
 
-### `I don't just build software — I build things worth using.`
+> **Developer exploring technology through software, experimentation, and real-world projects**
 
 <br>
+
+</div>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-**01 · THINK**
+### 🧩 Interests
 
-Start with the problem.  
-Understand the context.  
-Question the obvious solution.
-
-</td>
-
-<td align="center" width="50%">
-
-**02 · BUILD**
-
-Turn ideas into working systems.  
-Experiment, iterate,  
-and learn through the process.
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-**03 · REFINE**
-
-Improve the experience.  
-Simplify what feels complicated.  
-Care about the details.
+- Software Development & Application Engineering
+- Web & Mobile Application Development
+- Backend Development & RESTful API Engineering
+- Artificial Intelligence & LLM Applications
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
-**04 · DELIVER**
+### 🔭 More Interests
 
-Make it useful.  
-Make it reliable.  
-Make it matter.
+- Cybersecurity & Networking
+- Data & Database Technologies
+- UI/UX & Digital Product Development
+- Automation & Emerging Technologies
 
 </td>
 </tr>
@@ -81,12 +63,8 @@ Make it matter.
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:6366F1,100:00D9FF&height=3&section=footer&width=900"/>
-
-</div>
-
 ---
----
+
 
 # ⚡ Tech Arsenal
 
