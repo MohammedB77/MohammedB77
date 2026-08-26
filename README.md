@@ -211,8 +211,6 @@ building:
     - Useful, intuitive, and purpose-driven technology.
 ```
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
