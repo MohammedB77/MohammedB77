@@ -51,20 +51,20 @@ contact: Mohammedbamhraz@gmail.com
 ### 🤖 AI, Machine Learning & Data
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Search-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMOps-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analysis-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-0F766E?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging_Face-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-16A34A?style=for-the-badge&logo=pinecone&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Search-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-D946EF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMOps-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-DB2777?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analysis-0D9488?style=for-the-badge"/>
 
 <br><br>
 
