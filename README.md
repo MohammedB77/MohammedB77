@@ -25,41 +25,63 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer+%7C+LLMs+%7C+RAG;Building+Intelligent+Software;UI%2FUX+Designer+%7C+Digital+Product+Design" />
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6366F1,100:8B5CF6&height=3&section=header&width=900"/>
 
 <br>
 
-### Mohammed Abdullah Bamhraz
-
-<p>
-Building at the intersection of
-<strong>Software Engineering</strong>,
-<strong>Artificial Intelligence</strong>,
-and <strong>Digital Design</strong>.
-</p>
+### `I don't just build software — I build things worth using.`
 
 <br>
 
-<img src="https://img.shields.io/badge/Software_Engineering-00D9FF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs_%26_RAG-0891B2?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI%2FUX_Design-E11D48?style=for-the-badge&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<br><br>
+**01 · THINK**
 
-<sub>
-Software · AI · Web & Mobile · Cybersecurity · Data · Design · Automation
-</sub>
+Start with the problem.  
+Understand the context.  
+Question the obvious solution.
 
-<br><br>
+</td>
 
-<a href="mailto:Mohammedbamhraz@gmail.com">
-<img src="https://img.shields.io/badge/Mohammedbamhraz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<td align="center" width="50%">
+
+**02 · BUILD**
+
+Turn ideas into working systems.  
+Experiment, iterate,  
+and learn through the process.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+**03 · REFINE**
+
+Improve the experience.  
+Simplify what feels complicated.  
+Care about the details.
+
+</td>
+
+<td align="center" width="50%">
+
+**04 · DELIVER**
+
+Make it useful.  
+Make it reliable.  
+Make it matter.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,50:6366F1,100:00D9FF&height=3&section=footer&width=900"/>
 
 </div>
 
