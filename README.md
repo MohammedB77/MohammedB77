@@ -222,20 +222,19 @@ contact: Mohammedbamhraz@gmail.com
 
 <br>
 
-## 🏗️ What I Like Building
+# 🏗️ What I Like Building
 
 ```yaml
-building:
-  - AI-powered applications
-  - LLM & RAG systems
-  - Intelligent search & retrieval
-  - AI-backed web applications
-  - APIs & backend services
-  - Data-driven applications
-  - Software that solves real problems
+- Intelligent applications built around practical problems and real use cases.
+- Software products that balance functionality, reliability, and a strong user experience.
+- AI-powered solutions that turn data and models into useful applications.
+- Web and mobile experiences with clean interfaces and thoughtful interaction design.
+- Secure applications with cybersecurity considerations built into the development process.
+- Connected and data-driven systems that automate repetitive work and improve operations.
+- Technology products that are useful, intuitive, and built with purpose.
 ```
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
