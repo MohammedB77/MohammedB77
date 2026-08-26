@@ -26,10 +26,6 @@
 
 ### Mohammed Abdullah Bamhraz
 
-<br>
-
-> I build software applications, AI-powered systems, and practical digital products that solve real problems. My work combines software engineering, AI and LLM applications, RAG and intelligent retrieval, cybersecurity, data-driven systems, and UI/UX design, with a focus on creating useful, reliable, and thoughtfully designed digital experiences.
-
 </div>
 
 ### 🧩 Interests :
@@ -41,6 +37,10 @@
 - **Data & Database Technologies**
 - **UI/UX & Digital Product Development**
 - **Automation & Emerging Technologies**
+
+<br>
+
+> I build software applications, AI-powered systems, and practical digital products that solve real problems. My work combines software engineering, AI and LLM applications, RAG and intelligent retrieval, cybersecurity, data-driven systems, and UI/UX design, with a focus on creating useful, reliable, and thoughtfully designed digital experiences.
 
 ---
 # ⚡ Tech Arsenal
