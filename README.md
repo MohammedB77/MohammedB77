@@ -146,10 +146,6 @@ contact: Mohammedbamhraz@gmail.com
 
 ## 🤖 AI & Software Engineering
 
-</div>
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/DataCamp-Associate_AI_Engineer_for_Developers-03EF62?style=for-the-badge&logo=datacamp&logoColor=white"/>
 <img src="https://img.shields.io/badge/MCP-Introduction_to_Model_Context_Protocol-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-Developing_LLM_Applications-0F766E?style=for-the-badge&logo=langchain&logoColor=white"/>
@@ -168,74 +164,46 @@ contact: Mohammedbamhraz@gmail.com
 <img src="https://img.shields.io/badge/OpenAI-Prompt_Engineering-D946EF?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-Working_with_the_API-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
 
-</div>
-
-<br>
+<br><br>
 
 ---
 
-<div align="center">
-
 ## 🔐 Cybersecurity
 
-</div>
-
-## 🛡️ Foundations
-
-<div align="center">
+### 🛡️ Foundations
 
 <img src="https://img.shields.io/badge/Google-Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Edraak-Introduction_to_Cyber_Security-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-Cyber_Security_Basics-6D4AA2?style=for-the-badge"/>
 
-</div>
-
 <br><br>
 
-## ⚔️ Security & Penetration
-
-<div align="center">
+### ⚔️ Security & Penetration
 
 <img src="https://img.shields.io/badge/Edraak-Cyber_Security_Attack_Techniques-C2415B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-Protect_Systems_from_Penetrations-B56A2D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-Cyber_Security_Specialization-7C3AED?style=for-the-badge"/>
 
-</div>
-
 <br><br>
 
-## 🎯 Security Career
-
-<div align="center">
+### 🎯 Security Career
 
 <img src="https://img.shields.io/badge/Edraak-Career_Path_in_Cyber_Security-0F766E?style=for-the-badge"/>
 
-</div>
-
-<br>
+<br><br>
 
 ---
 
-<div align="center">
-
 ## 🎨 UI / UX Design
 
-</div>
-
-## 🔎 Research & Experience
-
-<div align="center">
+### 🔎 Research & Experience
 
 <img src="https://img.shields.io/badge/Edraak-UX_Research-E11D48?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-User_Experience_Design-8B5CF6?style=for-the-badge"/>
 
-</div>
-
 <br><br>
 
-## 🖥️ Interface & Interaction
-
-<div align="center">
+### 🖥️ Interface & Interaction
 
 <img src="https://img.shields.io/badge/Edraak-UI%2FUX_Design-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-User_Interface_Design_Principles-6366F1?style=for-the-badge"/>
@@ -243,7 +211,7 @@ contact: Mohammedbamhraz@gmail.com
 
 </div>
 
---- 
+---
 ## 🏗️ What I Like Building
 
 ```yaml
