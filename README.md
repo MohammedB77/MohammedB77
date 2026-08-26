@@ -166,45 +166,24 @@ contact: Mohammedbamhraz@gmail.com
 
 <br><br>
 
----
+<div align="center">
 
 ## 🔐 Cybersecurity
-
-### 🛡️ Foundations
 
 <img src="https://img.shields.io/badge/Google-Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Edraak-Introduction_to_Cyber_Security-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-Cyber_Security_Basics-6D4AA2?style=for-the-badge"/>
-
-<br><br>
-
-### ⚔️ Security & Penetration
-
 <img src="https://img.shields.io/badge/Edraak-Cyber_Security_Attack_Techniques-C2415B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-Protect_Systems_from_Penetrations-B56A2D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-Cyber_Security_Specialization-7C3AED?style=for-the-badge"/>
-
-<br><br>
-
-### 🎯 Security Career
-
 <img src="https://img.shields.io/badge/Edraak-Career_Path_in_Cyber_Security-0F766E?style=for-the-badge"/>
 
 <br><br>
 
----
-
 ## 🎨 UI / UX Design
-
-### 🔎 Research & Experience
 
 <img src="https://img.shields.io/badge/Edraak-UX_Research-E11D48?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-User_Experience_Design-8B5CF6?style=for-the-badge"/>
-
-<br><br>
-
-### 🖥️ Interface & Interaction
-
 <img src="https://img.shields.io/badge/Edraak-UI%2FUX_Design-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-User_Interface_Design_Principles-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-Interaction_Design_Fundamentals-0F766E?style=for-the-badge"/>
