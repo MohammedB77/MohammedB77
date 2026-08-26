@@ -57,15 +57,15 @@ contact: Mohammedbamhraz@gmail.com
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
 <img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-243447?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-243447?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embeddings-243447?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Search-243447?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-243447?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMOps-243447?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-243447?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-243447?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analysis-243447?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embeddings-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Search-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMOps-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analysis-0d1117?style=for-the-badge"/>
 
 <br><br>
 
