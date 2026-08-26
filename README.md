@@ -50,6 +50,7 @@ contact: Mohammedbamhraz@gmail.com
   
 ### 🤖 AI, Machine Learning & Data
 
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-0F766E?style=for-the-badge&logo=langchain&logoColor=white"/>
@@ -61,10 +62,10 @@ contact: Mohammedbamhraz@gmail.com
 <img src="https://img.shields.io/badge/Embeddings-0D9488?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Vector_Search-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Prompt_Engineering-D946EF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMOps-E11D48?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-DB2777?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analysis-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMOps-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analysis-0d1117?style=for-the-badge"/>
 <br><br>
 
 ### ⚙️ Backend, APIs & Enterprise Development
