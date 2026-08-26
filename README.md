@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1392" height="667" alt="image" src="https://github.com/user-attachments/assets/c470ffe0-f94f-41b1-9439-d6f73f85ce27" /><img width="1392" height="667" alt="image" src="https://github.com/user-attachments/assets/217cadbd-d939-4603-b5cc-b23ddc834e84" /><div align="center">
 
 ```text
 ███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗ 
@@ -19,7 +19,7 @@
 </div>
 
 ---
-
+---
 
 ## 👋 About Me
 
@@ -29,40 +29,39 @@
 
 <br>
 
-> **Developer exploring technology through software, experimentation, and real-world projects**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8B9DB5&center=true&vCenter=true&width=1000&lines=Developer+exploring+technology+through+software%2C+experimentation%2C+and+real-world+projects" />
 
-<br>
-
-</div>
+<br><br>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center">
 
-### 🧩 Interests
+### 🧩
 
-- Software Development & Application Engineering
-- Web & Mobile Application Development
-- Backend Development & RESTful API Engineering
-- Artificial Intelligence & LLM Applications
+**Software Development & Application Engineering**  
+**Web & Mobile Application Development**  
+**Backend Development & RESTful API Engineering**  
+**Artificial Intelligence & LLM Applications**
 
 </td>
 
-<td width="50%" valign="top">
+<td align="center">
 
-### 🔭 More Interests
+### ⚡
 
-- Cybersecurity & Networking
-- Data & Database Technologies
-- UI/UX & Digital Product Development
-- Automation & Emerging Technologies
+**Cybersecurity & Networking**  
+**Data & Database Technologies**  
+**UI/UX & Digital Product Development**  
+**Automation & Emerging Technologies**
 
 </td>
 </tr>
 </table>
 
-<br>
+</div>
 
+---
 ---
 
 
