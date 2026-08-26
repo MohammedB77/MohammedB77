@@ -19,27 +19,51 @@
 </div>
 
 ---
+---
 
 ## 👋 About Me
 
-name: Mohammed Abdullah Bamhraz
+<div align="center">
 
-profile:
-  "Developer exploring technology through software, experimentation, and real-world projects"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer+%7C+LLMs+%7C+RAG;Building+Intelligent+Software;UI%2FUX+Designer+%7C+Digital+Product+Design" />
 
-interests:
-  - Software Development & Application Engineering
-  - Web & Mobile Application Development
-  - Backend Development & RESTful API Engineering
-  - Artificial Intelligence & LLM Applications
-  - Cybersecurity & Networking
-  - Data & Database Technologies
-  - UI/UX & Digital Product Development
-  - Automation & Emerging Technologies
+<br><br>
 
-philosophy: "Learn. Build. Improve."
-contact: Mohammedbamhraz@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=" width="80%"/>
 
+<br>
+
+### Mohammed Abdullah Bamhraz
+
+<p>
+Building at the intersection of
+<strong>Software Engineering</strong>,
+<strong>Artificial Intelligence</strong>,
+and <strong>Digital Design</strong>.
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Software_Engineering-00D9FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLMs_%26_RAG-0891B2?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX_Design-E11D48?style=for-the-badge&logoColor=white"/>
+
+<br><br>
+
+<sub>
+Software · AI · Web & Mobile · Cybersecurity · Data · Design · Automation
+</sub>
+
+<br><br>
+
+<a href="mailto:Mohammedbamhraz@gmail.com">
+<img src="https://img.shields.io/badge/Mohammedbamhraz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
 ---
 
 # ⚡ Tech Arsenal
