@@ -105,19 +105,19 @@ contact: Mohammedbamhraz@gmail.com
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-16A34A?style=for-the-badge&logo=pinecone&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Pinecone-16A34A?style=for-the-badge&logoColor=white&logo=https%3A%2F%2Fcdn.simpleicons.org%2Fpinecone%2Fwhite"/>
 <br><br>
 
 ### 🛠️ DevOps, Systems & Productivity
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-E85D04?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-5B8C5A?style=for-the-badge&logo=linux&logoColor=white"/>
+
+<br><br>
 
 </div>
 
