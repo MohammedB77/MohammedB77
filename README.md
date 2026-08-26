@@ -15,8 +15,6 @@
 
 <img src="https://img.shields.io/badge/Based_in-Hadhrmout,_Yemen-8B3A3A?style=for-the-badge" alt="Based in"/>
 
-<img src="https://img.shields.io/badge/Focus-AI_%7C_AI_Engineering-00d9ff?style=for-the-badge" alt="Focus"/>
-
 <img src="https://komarev.com/ghpvc/?username=MohammedB77&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
