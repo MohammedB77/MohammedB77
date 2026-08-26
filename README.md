@@ -104,8 +104,6 @@ contact: Mohammedbamhraz@gmail.com
 ### 🗄️ Databases & Storage
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-6B7280?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pinecone-16A34A?style=for-the-badge&logo=pinecone&logoColor=white"/>
 
