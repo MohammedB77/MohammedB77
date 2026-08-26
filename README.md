@@ -138,14 +138,10 @@ contact: Mohammedbamhraz@gmail.com
 </div>
 
 ---
----
 
 # 🏆 Certifications & Learning
 
 <div align="center">
-
-### A collection of skills, disciplines & continuous learning
-
 
 ## 🤖 AI & Software Engineering
 
@@ -175,20 +171,6 @@ contact: Mohammedbamhraz@gmail.com
 </div>
 
 <br>
-
----
-
-## 🌐 Networking
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-CCNA:_Introduction_to_Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-CCNA:_Switching,_Routing_%26_Wireless_Essentials-0076A8?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</div>
-
-<br>
-
 ---
 
 ## 🔐 Cybersecurity
@@ -241,6 +223,7 @@ contact: Mohammedbamhraz@gmail.com
 </div>
 
 <br>
+
 ---
 # 🏗️ What I Like Building
 
