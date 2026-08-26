@@ -52,6 +52,8 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-0F766E?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-0F766E?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hugging_Face-F59E0B?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Pinecone-16A34A?style=for-the-badge&logo=pinecone&logoColor=white"/>
 <img src="https://img.shields.io/badge/MCP-7C3AED?style=for-the-badge"/>
