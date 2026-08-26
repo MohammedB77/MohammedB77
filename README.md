@@ -91,7 +91,7 @@ contact: Mohammedbamhraz@gmail.com
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-2E5D7B?style=for-the-badge&logo=nmap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cyber_Attacks-C2415B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Network_Analysis-2878A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cybersecurity-6D4AA2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Security_Management-B56A2D?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cyber_Risk-B04A72?style=for-the-badge"/>
@@ -103,11 +103,11 @@ contact: Mohammedbamhraz@gmail.com
 
 ### 🗄️ Databases & Storage
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Modeling-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-6B7280?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-16A34A?style=for-the-badge&logo=pinecone&logoColor=white"/>
+
+<br><br>
 
 <br><br>
 
