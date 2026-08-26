@@ -71,15 +71,12 @@ contact: Mohammedbamhraz@gmail.com
 ### ⚙️ Backend, APIs & Enterprise Development
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API_Integration-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend_Development-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JSON-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HTTP-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTTP-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSON-F59E0B?style=for-the-badge"/>
 
 <br><br>
-
 ### 🌐 Frontend & Mobile
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
