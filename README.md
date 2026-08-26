@@ -20,7 +20,7 @@
 </div>
 
 
-## 👋 About Me
+## About Me
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 </div>
 
-### 🧩 Interests :
+### Interests :
 
 - **Software Development & Application Engineering**
 - **Web & Mobile Application Development**
@@ -76,7 +76,7 @@
 
 <br><br>
 
-### 🌐 Frontend & Mobile
+### Frontend & Mobile
 
 <img src="https://img.shields.io/badge/HTML5-E85D04?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -87,7 +87,7 @@
 
 <br><br>
 
-### 🔐 Cybersecurity Skills & Tools
+### Cybersecurity Skills & Tools
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-2E5D7B?style=for-the-badge&logo=nmap&logoColor=white"/>
@@ -103,7 +103,7 @@
 
 <br><br>
 
-### 🗄️ Databases & Storage
+### Databases & Storage
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Firebase-F59E0B?style=for-the-badge&logo=firebase&logoColor=white"/>
@@ -111,7 +111,7 @@
 
 <br><br>
 
-### 🛠️ DevOps, Systems & Productivity
+### DevOps, Systems & Productivity
 
 <img src="https://img.shields.io/badge/Git-E85D04?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -124,7 +124,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 <div align="center">
 
@@ -139,7 +139,7 @@
 </div>
 
 ---
-# 🏆 Certifications & Learning
+# Certifications & Learning
 
 <div align="center">
 
@@ -167,7 +167,7 @@
 
 <div align="center">
 
-## 🔐 Cybersecurity
+##  Cybersecurity
 
 <img src="https://img.shields.io/badge/Google-Foundations_of_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Edraak-Introduction_to_Cyber_Security-2563EB?style=for-the-badge"/>
@@ -179,7 +179,7 @@
 
 <br><br>
 
-## 🎨 UI / UX Design
+## UI / UX Design
 
 <img src="https://img.shields.io/badge/Edraak-UX_Research-E11D48?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-User_Experience_Design-8B5CF6?style=for-the-badge"/>
@@ -192,7 +192,7 @@
 
 ---
 
-## 🏗️ What I Like Building
+##  What I Like Building
 
 ```yaml
 building:
@@ -207,7 +207,7 @@ building:
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -234,7 +234,7 @@ building:
 </div>
 
 ---
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
