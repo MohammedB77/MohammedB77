@@ -220,18 +220,17 @@ contact: Mohammedbamhraz@gmail.com
 </div>
 
 <br>
+## 🏗️ What I Like Building
 
----
-# 🏗️ What I Like Building
-
-* 🤖 AI-powered applications
-* 🧠 LLM & RAG systems
-* 🔎 Intelligent search and retrieval
-* 🌐 AI-backed web applications
-* ⚙️ APIs and backend services
-* 📊 Data-driven applications
-* 💡 Software that solves actual problems
-
+```yaml
+building:
+  - AI-powered applications
+  - LLM & RAG systems
+  - Intelligent search & retrieval
+  - AI-backed web applications
+  - APIs & backend services
+  - Data-driven applications
+  - Software that solves real problems```
 ---
 
 # 📊 GitHub Analytics
