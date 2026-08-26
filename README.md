@@ -18,7 +18,6 @@
 <img src="https://img.shields.io/badge/Focus-AI_%7C_AI_Engineering-00d9ff?style=for-the-badge" alt="Focus"/>
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
 </div>
 
 ---
