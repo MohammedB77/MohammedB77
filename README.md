@@ -180,7 +180,7 @@ contact: Mohammedbamhraz@gmail.com
 
 </div>
 
-### 🛡️ Foundations
+## 🛡️ Foundations
 
 <div align="center">
 
@@ -192,7 +192,7 @@ contact: Mohammedbamhraz@gmail.com
 
 <br><br>
 
-### ⚔️ Security & Penetration
+## ⚔️ Security & Penetration
 
 <div align="center">
 
@@ -204,7 +204,7 @@ contact: Mohammedbamhraz@gmail.com
 
 <br><br>
 
-### 🎯 Security Career
+## 🎯 Security Career
 
 <div align="center">
 
@@ -222,7 +222,7 @@ contact: Mohammedbamhraz@gmail.com
 
 </div>
 
-### 🔎 Research & Experience
+## 🔎 Research & Experience
 
 <div align="center">
 
@@ -233,7 +233,7 @@ contact: Mohammedbamhraz@gmail.com
 
 <br><br>
 
-### 🖥️ Interface & Interaction
+## 🖥️ Interface & Interaction
 
 <div align="center">
 
