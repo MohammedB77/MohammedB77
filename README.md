@@ -23,55 +23,26 @@
 ---
 
 ## 👋 About Me
+name: Mohammed Abdullah Bamhraz
 
-I'm an **AI-focused developer** interested in building practical software powered by Artificial Intelligence.
+profile:
+  "Developer exploring technology through software, experimentation, and real-world projects"
 
-My journey is centered around understanding how AI systems work, from Python and backend development to **LLMs, RAG, APIs, and intelligent applications**.
+interests:
+  - Software Development & Application Engineering
+  - Web & Mobile Application Development
+  - Backend Development & RESTful API Engineering
+  - Artificial Intelligence & LLM Applications
+  - Cybersecurity & Networking
+  - Data & Database Technologies
+  - UI/UX & Digital Product Development
+  - Automation & Emerging Technologies
 
-I prefer learning by building — taking an idea, understanding the problem behind it, and turning it into a working system.
-
-```yaml
-focus:
-  - Artificial Intelligence
-  - AI Engineering
-  - LLM Applications
-  - Retrieval-Augmented Generation
-  - Backend Development
-  - APIs
-  - Data & Databases
-
-mindset:
-  - Learn by building
-  - Understand before implementing
-  - Turn ideas into useful systems
-```
+philosophy: "Learn. Build. Improve."
+contact: Mohammedbamhraz@gmail.com
 
 ---
 
-## 🧠 What I'm Exploring
-
-```text
-AI Engineering
-      ↓
-LLM Applications
-      ↓
-RAG & Retrieval
-      ↓
-AI-powered Products
-      ↓
-Real-world Problem Solving
-```
-
-I'm particularly interested in the engineering side of AI:
-
-* Building applications around LLMs
-* Working with RAG architectures
-* Connecting AI models with real data
-* Designing useful AI-powered products
-* Building APIs around intelligent systems
-* Turning ideas into practical software
-
----
 
 # ⚡ Tech Arsenal
 
