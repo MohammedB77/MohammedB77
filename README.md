@@ -19,10 +19,6 @@
 </div>
 
 ---
-about me 
-
----
-
 
 # ⚡ Tech Arsenal
 
