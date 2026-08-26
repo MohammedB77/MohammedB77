@@ -77,14 +77,15 @@ contact: Mohammedbamhraz@gmail.com
 
 <br><br>
 ### 🌐 Frontend & Mobile
-### 🌐 Frontend & Mobile
 
 <img src="https://img.shields.io/badge/HTML5-E85D04?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-EAB308?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Dart-0284C7?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-06B6D4?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-E11D48?style=for-the-badge&logo=figma&logoColor=white"/>
 
+<br><br>
 <br><br>
 
 <br><br>
