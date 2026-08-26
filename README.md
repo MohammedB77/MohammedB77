@@ -43,7 +43,7 @@
 > I build software applications, AI-powered systems, and practical digital products that solve real problems. My work combines software engineering, AI and LLM applications, RAG and intelligent retrieval, cybersecurity, data-driven systems, and UI/UX design, with a focus on creating useful, reliable, and thoughtfully designed digital experiences.
 
 ---
-# ⚡ Tech Arsenal
+#  Tech Arsenal
 
 <div align="center">
 
@@ -68,11 +68,12 @@
 
 <br><br>
 
-### ⚙️ Backend, APIs & Enterprise Development
+###  Backend, APIs & Enterprise Development
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-16A34A?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 <br><br>
 
