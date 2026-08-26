@@ -18,8 +18,34 @@
 <img src="https://komarev.com/ghpvc/?username=MohammedB77&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
+---
+---
 
+## 👋 About Me
 
+<div align="center">
+
+### Mohammed Abdullah Bamhraz
+
+<br>
+
+> Developer exploring technology through software, experimentation, and real-world projects.
+
+<br>
+
+</div>
+
+### 🧩 What I Explore
+
+- **Software Development & Application Engineering**
+- **Web & Mobile Application Development**
+- **Artificial Intelligence & LLM Applications**
+- **Cybersecurity & Networking**
+- **Data & Database Technologies**
+- **UI/UX & Digital Product Development**
+- **Automation & Emerging Technologies**
+
+---
 # ⚡ Tech Arsenal
 
 <div align="center">
