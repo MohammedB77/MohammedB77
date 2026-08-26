@@ -30,8 +30,6 @@
 
 > Developer exploring technology through software, experimentation, and real-world projects.
 
-<br>
-
 </div>
 
 ### 🧩 What I Explore
