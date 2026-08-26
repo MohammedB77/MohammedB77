@@ -148,9 +148,6 @@ contact: Mohammedbamhraz@gmail.com
 <div align="center">
 
 <img src="https://img.shields.io/badge/DataCamp-Associate_AI_Engineer_for_Developers-03EF62?style=for-the-badge&logo=datacamp&logoColor=white"/>
-
-<br><br>
-
 <img src="https://img.shields.io/badge/MCP-Introduction_to_Model_Context_Protocol-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangChain-Developing_LLM_Applications-0F766E?style=for-the-badge&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-Software_Engineering_Principles-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
