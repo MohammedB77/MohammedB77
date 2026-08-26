@@ -241,19 +241,6 @@ contact: Mohammedbamhraz@gmail.com
 </div>
 
 <br>
-
----
-
-<div align="center">
-
-### 📈 Learn → Build → Improve → Repeat
-
-</div>
-
----
-
-
-
 ---
 # 🏗️ What I Like Building
 
