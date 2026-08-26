@@ -1,15 +1,23 @@
-````markdown
 <div align="center">
 
-# Mohammed
+```text
+███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗███████╗██████╗ 
+████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║█████╗  ██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══╝  ██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║███████╗██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
+```
 
-### AI Engineer in Progress · Builder · Problem Solver
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=AI+Engineering+%7C+LLM+Applications+%7C+RAG;Building+Practical+AI+Systems;Python+%7C+Flask+%7C+APIs+%7C+Data;Learning+by+Building+Real+Projects" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=850\&lines=AI+Engineer+%7C+AI+Developer+%7C+Builder;Artificial+Intelligence+%7C+LLMs+%7C+RAG;Python+%7C+Backend+%7C+AI+Applications;Learning+by+Building+Real+Projects)](https://git.io/typing-svg)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/badge/Based_in-YOUR_CITY,_COUNTRY-0d1117?style=for-the-badge" alt="Based in"/>
+
+<img src="https://img.shields.io/badge/Focus-AI_%7C_AI_Engineering-00d9ff?style=for-the-badge" alt="Focus"/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -19,7 +27,7 @@
 
 I'm an **AI-focused developer** interested in building practical software powered by Artificial Intelligence.
 
-My journey is centered around understanding how AI systems actually work, from Python and backend development to **LLMs, RAG, APIs, and intelligent applications**.
+My journey is centered around understanding how AI systems work, from Python and backend development to **LLMs, RAG, APIs, and intelligent applications**.
 
 I prefer learning by building — taking an idea, understanding the problem behind it, and turning it into a working system.
 
@@ -37,7 +45,7 @@ mindset:
   - Learn by building
   - Understand before implementing
   - Turn ideas into useful systems
-````
+```
 
 ---
 
@@ -62,7 +70,7 @@ I'm particularly interested in the engineering side of AI:
 * Connecting AI models with real data
 * Designing useful AI-powered products
 * Building APIs around intelligent systems
-* Understanding how AI moves from an idea into a usable application
+* Turning ideas into practical software
 
 ---
 
@@ -145,15 +153,13 @@ I'm particularly interested in the engineering side of AI:
 
 | Project                   | Description                                                                     | Focus                     |
 | ------------------------- | ------------------------------------------------------------------------------- | ------------------------- |
-| 🔎 **Raasid**             | AI-powered project built around intelligent analysis and useful insights        | AI · RAG · Data           |
+| 🔎 **Raasid**             | AI-powered project focused on intelligent analysis and useful insights          | AI · RAG · Data           |
 | 🤖 **AI Applications**    | Experimental applications exploring LLMs and AI workflows                       | LLM · AI Engineering      |
 | 🌐 **Flask Projects**     | Backend and web applications built while developing software engineering skills | Python · Flask · APIs     |
 | 🧠 **RAG Experiments**    | Projects exploring retrieval, context, and knowledge-grounded AI                | RAG · LLMs                |
 | 🎓 **Graduation Project** | An AI-focused graduation project solving a real-world problem                   | AI · Software Engineering |
 
 </div>
-
-> More projects will be added as I continue building.
 
 ---
 
@@ -217,7 +223,7 @@ Python
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff"/>
 
@@ -289,4 +295,3 @@ I'm continuously working toward becoming a stronger **AI Engineer** by combining
 ### Building today what I want to understand tomorrow.
 
 </div>
-```
