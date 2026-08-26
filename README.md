@@ -47,7 +47,7 @@
 
 <div align="center">
 
-### 🤖 AI, Machine Learning & Data
+###  AI, Machine Learning & Data
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
