@@ -218,8 +218,10 @@ contact: Mohammedbamhraz@gmail.com
 <img src="https://img.shields.io/badge/Edraak-Interaction_Design_Fundamentals-0F766E?style=for-the-badge"/>
 
 </div>
+---
 
 <br>
+
 ## 🏗️ What I Like Building
 
 ```yaml
@@ -230,8 +232,8 @@ building:
   - AI-backed web applications
   - APIs & backend services
   - Data-driven applications
-  - Software that solves real problems```
----
+  - Software that solves real problems
+```
 
 # 📊 GitHub Analytics
 
