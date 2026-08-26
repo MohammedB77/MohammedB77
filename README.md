@@ -189,27 +189,24 @@ contact: Mohammedbamhraz@gmail.com
 <img src="https://img.shields.io/badge/Edraak-Interaction_Design_Fundamentals-0F766E?style=for-the-badge"/>
 
 </div>
+</div>
 
--
+---
+
 ## 🏗️ What I Like Building
 
 ```yaml
 building:
-  applications:
-    - Intelligent applications built around practical problems and real use cases.
-    - AI-powered solutions that turn data and models into useful applications.
-
-  products:
-    - Software products that balance functionality, reliability, and user experience.
-    - Web and mobile experiences with clean interfaces and thoughtful interaction design.
-
-  systems:
-    - Secure applications with cybersecurity considerations throughout development.
-    - Connected and data-driven systems that automate work and improve operations.
-
-  principles:
-    - Useful, intuitive, and purpose-driven technology.
+  - Intelligent applications built around practical problems and real use cases.
+  - AI-powered solutions that turn data and models into useful applications.
+  - Software products that balance functionality, reliability, and user experience.
+  - Web and mobile experiences with clean interfaces and thoughtful interaction design.
+  - Secure applications with cybersecurity considerations throughout development.
+  - Connected and data-driven systems that automate work and improve operations.
+  - Useful, intuitive, and purpose-driven technology.
 ```
+
+---
 
 ## 📊 GitHub Analytics
 
