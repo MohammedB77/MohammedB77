@@ -263,6 +263,6 @@ building:
 ╚══════════════════════════════════════════════════════╝
 ```
 
-### Building today what I want to understand tomorrow.
+### Always exploring. Always building. Always improving.
 
 </div>
