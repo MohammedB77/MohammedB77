@@ -210,31 +210,41 @@ contact: Mohammedbamhraz@gmail.com
 <img src="https://img.shields.io/badge/Edraak-User_Experience_Design-8B5CF6?style=for-the-badge"/>
 
 <br><br>
-
 ### 🖥️ Interface & Interaction
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/Edraak-UI%2FUX_Design-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-User_Interface_Design_Principles-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Edraak-Interaction_Design_Fundamentals-0F766E?style=for-the-badge"/>
 
 </div>
+
 ---
 
 ## 🏗️ What I Like Building
 
 ```yaml
 building:
-  - Intelligent applications built around practical problems and real use cases.
-  - Software products that balance functionality, reliability, and user experience.
-  - AI-powered solutions that turn data and models into useful applications.
-  - Web and mobile experiences with clean interfaces and thoughtful interaction design.
-  - Secure applications with cybersecurity considerations throughout development.
-  - Connected and data-driven systems that automate work and improve operations.
-  - Technology products that are useful, intuitive, and built with purpose.
+  applications:
+    - Intelligent applications built around practical problems and real use cases.
+    - AI-powered solutions that turn data and models into useful applications.
+
+  products:
+    - Software products that balance functionality, reliability, and user experience.
+    - Web and mobile experiences with clean interfaces and thoughtful interaction design.
+
+  systems:
+    - Secure applications with cybersecurity considerations throughout development.
+    - Connected and data-driven systems that automate work and improve operations.
+
+  principles:
+    - Useful, intuitive, and purpose-driven technology.
 ```
 
 ---
 
+## 📊 GitHub Analytics
 ## 📊 GitHub Analytics
 
 <div align="center">
