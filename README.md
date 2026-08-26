@@ -47,8 +47,7 @@ contact: Mohammedbamhraz@gmail.com
 # ⚡ Tech Arsenal
 
 <div align="center">
-
-### 🤖 AI, Machine Learning & Data
+  
 ### 🤖 AI, Machine Learning & Data
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
