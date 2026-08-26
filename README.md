@@ -84,22 +84,22 @@ contact: Mohammedbamhraz@gmail.com
 <img src="https://img.shields.io/badge/Dart-0284C7?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-06B6D4?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-E11D48?style=for-the-badge&logo=figma&logoColor=white"/>
-
-<br><br>
-<br><br>
-
 <br><br>
 
 ### 🔐 Cybersecurity Skills & Tools
 
-<img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Networking-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Network_Security-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cybersecurity-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Secure_Coding-0d1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-2E5D7B?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cyber_Attacks-C2415B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Network_Analysis-2878A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-6D4AA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security_Management-B56A2D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cyber_Risk-B04A72?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security_Controls-238A9B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SIEM_Operations-3A8F5B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Information_Assurance-5968A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security_Strategy-79519B?style=for-the-badge"/>
 
-<br><br>
 
 ### 🗄️ Databases & Storage
 
