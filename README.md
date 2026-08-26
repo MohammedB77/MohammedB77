@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝ 
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=1100&lines=Software+Engineer+%7C+AI+Engineer;Artificial+Intelligence+%7C+LLMs+%7C+RAG;AI+Applications+%7C+Intelligent+Systems;UI%2FUX+Designer+%7C+Digital+Product+Design;Building+Software+That+Solves+Real+Problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=1100&lines=Software+Engineer+%7C+AI+Engineer;Artificial+Intelligence+%7C+LLMs+%7C+RAG;AI+Applications+%7C+Intelligent+Systems;UI%2FUX+Designer+%7C+Digital+Product+Design)](https://git.io/typing-svg)
 
 <br>
 
