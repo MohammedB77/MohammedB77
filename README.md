@@ -33,7 +33,6 @@
 - **Software Development & Application Engineering**
 - **Web & Mobile Application Development**
 - **Artificial Intelligence & LLM Applications**
-- **Cybersecurity & Networking**
 - **Data & Database Technologies**
 - **UI/UX & Digital Product Development**
 - **Automation & Emerging Technologies**
