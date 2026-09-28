@@ -62,7 +62,6 @@
 <img src="https://img.shields.io/badge/LLMOps-0d1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/NLP-0d1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analysis-0d1117?style=for-the-badge"/>
 
 <br><br>
 
