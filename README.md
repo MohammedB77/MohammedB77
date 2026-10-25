@@ -68,7 +68,6 @@
 ###  Backend, APIs & Enterprise Development
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FastAPI-16A34A?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
@@ -80,7 +79,6 @@
 <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-EAB308?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Dart-0284C7?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-06B6D4?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-E11D48?style=for-the-badge&logo=figma&logoColor=white"/>
 
 <br><br>
